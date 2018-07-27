@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ TicTacToe\ game\ that\ incorporates\ GUI.\r\n\r\n\ @author\ Christophe\ Tran\r\n\ @version\ November\ 29,\ 2017\r\n
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ clearBoard()
+comment3.text=\r\n\ Sets\ everything\ up\ for\ a\ new\ game.\ \ Marks\ all\ squares\ in\ the\ Tic\ Tac\ Toe\ board\ as\ empty,\r\n\ and\ indicates\ no\ winner\ yet,\ 9\ free\ squares\ and\ the\ current\ player\ is\ player\ X.\r\n
+comment4.params=row\ col
+comment4.target=boolean\ haveWinner(int,\ int)
+comment5.params=
+comment5.target=void\ updateStatus()
+numComments=6
